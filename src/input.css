@@ -12,4 +12,35 @@
     .fomulario{
         @apply mb-4 bg-gray-400 outline-none px-2;
     }
+    .valido{
+        @apply border border-b-2 border-green-600 mb-4 bg-gray-400 outline-none px-2;
+    }
+    .invalido{
+        @apply  border border-b-2 border-red-600 mb-4 bg-gray-400 outline-none px-2;
+    }
+    /*  */
+    .subtitle{
+        @apply flex justify-center mb-3 text-slate-300;
+    }
+    .card-dark{
+        @apply bg-slate-950 rounded-lg min-h-[230px]  px-1 content-center overflow-hidden  hover:cursor-pointer;
+    }
+    
+    .card-ligh{
+        @apply bg-slate-300 rounded-lg  ring-2 ring-green-500 min-h-[230px]  px-1 content-center overflow-hidden hover:cursor-pointer
+    }
+    .imgs{
+        @apply rounded-lg  hover:scale-150 transition duration-500 hover:cursor-pointer
+    }
+  /*  */
+    .look{
+        @apply w-[700px] mx-auto my-10 rounded-lg
+    }
+    .title{
+        @apply font-semibold text-2xl text-slate-300 flex justify-center
+    }
+    .detailtitle{
+        @apply sm:text-xl text-slate-400  max-w-[1000px] sm:mx-auto mt-11 mx-5
+    }
+   
 }

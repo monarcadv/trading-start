@@ -1,0 +1,54 @@
+{
+    "informacionTrading":[
+        {
+            "id":1,
+            "title": "que es el trading",
+            "img":"https://tradebrains.in/wp-content/uploads/2021/12/Minimum-Amount-For-Trading-in-india-2023-Cover-Image-1080x675.jpg",
+            "body":"El trading es la práctica de comprar y vender activos financieros en los mercados con el objetivo de obtener beneficios. Estos activos pueden incluir acciones, divisas (forex), criptomonedas, materias primas, bonos y otros instrumentos financieros. El trading se basa en aprovechar las fluctuaciones de precios a corto plazo, lo que lo distingue de la inversión tradicional, que suele centrarse en horizontes temporales más largos.\n\n Tipos de trading:\n 1: Trading diario (Day Trading): Operaciones que se abren y cierran dentro del mismo día. Requiere análisis rápido y decisiones ágiles.\n 2:Scalping: Estrategia de muy corto plazo, donde los traders buscan pequeñas ganancias en muchas operaciones rápidas.\n 3:Swing Trading: Mantener posiciones durante varios días o semanas, aprovechando tendencias intermedias. \n4:Trading de posición: Operaciones de largo plazo basadas en análisis fundamental y técnico.\n Mercados principales: \n\n Forex: Intercambio de divisas. \n Acciones: Compra y venta de participaciones en empresas. \n Criptomonedas: Trading de monedas digitales como Bitcoin, Ethereum, etc.\n Futuros y opciones: Contratos derivados basados en el valor futuro de un activo.\n",
+              "bg":"card-ligh"
+        },
+        {
+            "id":2,
+            "title":"se gana dinero del trading",
+            "img":"https://tradebrains.in/wp-content/uploads/2023/11/Best-Financial-Markets-To-Trade-in-2024-Cover-Image-1080x675.jpg",
+            "body": "Sí, es posible ganar dinero con el trading, pero también es importante tener en cuenta que no es fácil ni está garantizado. El éxito en el trading depende de muchos factores, como el conocimiento, la        experiencia, la disciplina, la gestión del riesgo y la capacidad para tomar decisiones informadas.\n\n Cómo se gana dinero en trading: \n 1:Comprando barato y vendiendo caro: En mercados al alza, se compra un activo a un precio bajo y se vende cuando sube.\n 2:Vendiendo caro y comprando barato (venta en corto): En mercados a la baja, se 'vende' un activo prestado con la expectativa de comprarlo más barato después.\n 3:Aprovechando las fluctuaciones: Incluso movimientos pequeños en los precios pueden generar ganancias si se usan estrategias como el apalancamiento.  \n\n Factores clave para ganar dinero:\n 1:Conocimientos sólidos: Estudiar los mercados, aprender análisis técnico y fundamental, y comprender cómo funcionan los activos financieros.\n 2:Gestión del riesgo: Nunca arriesgar más de lo que estás dispuesto a perder y usar herramientas como el 'stop loss'. \n 3:Psicología del trading: Controlar las emociones y evitar decisiones impulsivas. \n 4:Estrategias probadas: Usar métodos bien definidos que se adapten al estilo de trading y al mercado elegido.",
+             "bg":"card-dark"
+            
+        },
+        {
+            "id":3,
+            "title": "riesgo / beneficio del trading",
+            "img":"https://img.indiafilings.com/learn/wp-content/uploads/2016/06/12010657/Stock-Trading-Strategy.jpg",
+            "body":"Riesgos del trading: \n\n 1:Pérdida de capital: \n *Las fluctuaciones del mercado pueden ir en tu contra y provocar pérdidas.\n *El uso de apalancamiento puede amplificar estas pérdidas. \n 2:Volatilidad \n *Los precios de los activos pueden ser impredecibles, especialmente en mercados como las criptomonedas o el forex.\n 3:Factores emocionales: \n *El miedo o la codicia pueden llevar a malas decisiones. \n *La falta de disciplina en seguir un plan puede aumentar las pérdidas.\n\n Beneficios del trading: \n 1:Potencial de alta rentabilidad: \n *Con estrategias sólidas, es posible obtener ganancias significativas en plazos cortos. \n 2:Diversificación de ingresos:\n *Puede complementar otras fuentes de ingresos o convertirse en la principal si se domina la práctica. \n 3:Acceso a múltiples mercados: \n *Los traders pueden elegir entre mercados como acciones, forex, criptomonedas, etc.",
+             "bg":"card-ligh"
+        }
+
+
+
+    ],
+    "datosTrading":[
+        {
+            "id":4,
+            "title": "herramienta del trading",
+            "img":"https://itexus.com/wp-content/uploads/2021/01/How-much-Does-It-Cost-to-Develop-an-Automated-Trading-System.png",
+            "body":"Una herramienta de trading es un recurso que facilita a los operadores (traders) analizar mercados financieros, tomar decisiones informadas y ejecutar operaciones. Estas herramientas varían según el nivel de experiencia y las necesidades del trader. Aquí te detallo algunas categorías clave: \n\n 1:Plataformas de Trading \n *Ejemplos: MetaTrader 4/5, TradingView, NinjaTrader.\n *Proporcionan gráficos, indicadores técnicos, análisis de mercado y la posibilidad de ejecutar órdenes. \n\n 2:Indicadores Técnicos \n *Herramientas de análisis basadas en datos históricos, como \n Media Móvil (Moving Average). \n *Índice de Fuerza Relativa (RSI) etc.. \n\n 3:Herramientas de Gestión de Riesgos *Calculadoras de tamaño de posición. \n *Stop loss y take profit automáticos. \n\n Herramientas de Análisis Fundamental \n Ayudan a evaluar el valor real de un activo, considerando factores macroeconómicos, reportes financieros, etc.",
+            "bg":"card-dark"
+
+        },
+        {
+            "id":5,
+            "title":"estrategia de trading",
+            "bg":"card-ligh"
+
+
+        },
+        {
+            "id":6,
+            "title": "cuenta de fondeo",
+            "img":"https://img.freepik.com/premium-photo/buy-sell-trend-forex-trading-stock-market-background_974629-286832.jpg",
+            "body":"Una cuenta de fondeo es una herramienta ofrecida por empresas especializadas en financiamiento para traders (prop trading firms). Estas cuentas permiten a los traders operar con capital proporcionado por la firma en lugar de utilizar su propio dinero. A cambio, el trader comparte un porcentaje de las ganancias con la empresa. Es una opción popular para traders que tienen habilidades pero carecen de suficiente capital para operar \n Empresas populares de fondeo \n\n 1:FTMO \n Una de las más reconocidas. Ofrecen cuentas de hasta $400,000. \n Reglas claras y soporte en varios mercados. \n\n 2:My Forex Funds (MFF): \n Atrae a traders por sus tarifas competitivas. \n Ofrecen programas para traders principiantes y avanzados. \n\n 3:Topstep \n Especializada en futuros. \n  Reputación sólida y enfoque educativo. \n\n Earn2Trade \n  Buenas opciones para quienes se inician en el trading de futuros.",
+            "bg":"card-dark"
+
+        }
+    ]
+}
