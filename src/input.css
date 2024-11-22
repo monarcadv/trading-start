@@ -4,7 +4,7 @@
 
 @layer components {
     .link{
-        @apply w-20 mx-4 bg-slate-200 py-2 px-4 rounded-lg cursor-pointer hover:bg-slate-400 transition duration-300 ring-2 ring-green-500;
+        @apply w-24 mx-4 bg-slate-200 py-2 px-4 rounded-lg cursor-pointer hover:bg-slate-400 transition duration-300 ring-2 ring-green-500 text-center;
     }
     .link-dark{
         @apply w-20 mx-4 text-white bg-slate-700 py-2 px-4 rounded-lg cursor-pointer hover:bg-slate-600 transition duration-300  ring-2 ring-green-500;
@@ -23,11 +23,11 @@
         @apply flex justify-center mb-3 text-slate-300;
     }
     .card-dark{
-        @apply bg-slate-950 rounded-lg min-h-[230px]  px-1 content-center overflow-hidden  hover:cursor-pointer;
+        @apply bg-slate-950 rounded-lg min-h-[230px]  px-1 content-center overflow-hidden  hover:cursor-pointer drop-shadow-xl
     }
     
     .card-ligh{
-        @apply bg-slate-300 rounded-lg  ring-2 ring-green-500 min-h-[230px]  px-1 content-center overflow-hidden hover:cursor-pointer
+        @apply bg-slate-300 rounded-lg  ring-2 ring-green-500 min-h-[230px]  px-1 content-center overflow-hidden hover:cursor-pointer drop-shadow-xl
     }
     .imgs{
         @apply rounded-lg  hover:scale-150 transition duration-500 hover:cursor-pointer
@@ -40,7 +40,7 @@
         @apply font-semibold text-2xl text-slate-300 flex justify-center
     }
     .detailtitle{
-        @apply sm:text-xl text-slate-400  max-w-[1000px] sm:mx-auto mt-11 mx-5
+        @apply sm:text-xl text-slate-400  max-w-[1000px] sm:mx-auto mt-11 mx-5 
     }
    
 }

@@ -14,8 +14,8 @@ async function datelli(){
       const elementos = await response.json();
       const elemento = elementos.find((el) => el.id == id);
       if(elemento){
-        const ds = elemento.body.replace(/\n/g, "<br/>")
-        description.innerHTML = `<img src="${elemento.img}" class="look"/> <h1 class="title">${elemento.title}</h1> <div class="detailtitle">${ds}</div>`
+        const bodys = elemento.body.replace(/\n/g, "<br/>")
+        description.innerHTML = `<img src="${elemento.img}" class="look"/> <h1 class="title">${elemento.title}</h1> <div class="detailtitle">${bodys}</div>`
       }
 
    }catch{
@@ -39,8 +39,8 @@ async function datellipersonal(){
       const elementos = await response.json();
       const elemento = elementos.find((el) => el.id == id);
       if(elemento){
-        const ds = elemento.body.replace(/\n/g, "<br/>")
-        dataDescription.innerHTML = `<img src="${elemento.img}" class="look"/> <h1 class="title">${elemento.title}</h1> <div class="detailtitle">${ds}</div>`
+        const bodys = elemento.body.replace(/\n/g, "<br/>")
+        dataDescription.innerHTML = `<img src="${elemento.img}" class="look"/> <h1 class="title">${elemento.title}</h1> <div class="detailtitle">${bodys}</div>`
       }
 
    }catch{
