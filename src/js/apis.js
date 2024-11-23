@@ -22,7 +22,7 @@ function RenderApis(data) {
       newdiv.innerHTML = `<h2 class="subtitle">${item.title}</h2> <div class="card-dark"> <img src="${item.img}" class="imgs"/> </div>`;
     }
     newdiv.addEventListener("click", () => {
-      window.location.href =`../html/detalles.html?id=${item.id}`
+      window.location.href =`/src/html/detalles.html?id=${item.id}`
       console.log(window.location)
     });
     infoTrading.appendChild(newdiv);

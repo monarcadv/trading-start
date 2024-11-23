@@ -998,6 +998,10 @@ video {
   place-content: center;
 }
 
+.content-center {
+  align-content: center;
+}
+
 .justify-end {
   justify-content: flex-end;
 }
