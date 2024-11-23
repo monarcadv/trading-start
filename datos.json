@@ -19,7 +19,7 @@
             "id":3,
             "title": "riesgo / beneficio del trading",
             "img":"https://img.indiafilings.com/learn/wp-content/uploads/2016/06/12010657/Stock-Trading-Strategy.jpg",
-            "body":"Riesgos del trading: \n\n 1:Pérdida de capital: \n *Las fluctuaciones del mercado pueden ir en tu contra y provocar pérdidas.\n *El uso de apalancamiento puede amplificar estas pérdidas. \n 2:Volatilidad \n *Los precios de los activos pueden ser impredecibles, especialmente en mercados como las criptomonedas o el forex.\n 3:Factores emocionales: \n *El miedo o la codicia pueden llevar a malas decisiones. \n *La falta de disciplina en seguir un plan puede aumentar las pérdidas.\n\n Beneficios del trading: \n 1:Potencial de alta rentabilidad: \n *Con estrategias sólidas, es posible obtener ganancias significativas en plazos cortos. \n 2:Diversificación de ingresos:\n *Puede complementar otras fuentes de ingresos o convertirse en la principal si se domina la práctica. \n 3:Acceso a múltiples mercados: \n *Los traders pueden elegir entre mercados como acciones, forex, criptomonedas, etc.",
+            "body":"Riesgos del trading: \n\n 1:Pérdida de capital: \n   Las fluctuaciones del mercado pueden ir en tu contra y provocar pérdidas.\n   El uso de apalancamiento puede amplificar estas pérdidas. \n 2:Volatilidad \n   Los precios de los activos pueden ser impredecibles, especialmente en mercados como las criptomonedas o el forex.\n 3:Factores emocionales: \n   El miedo o la codicia pueden llevar a malas decisiones. \n   La falta de disciplina en seguir un plan puede aumentar las pérdidas.\n\n Beneficios del trading: \n 1:Potencial de alta rentabilidad: \n   Con estrategias sólidas, es posible obtener ganancias significativas en plazos cortos. \n 2:Diversificación de ingresos:\n   Puede complementar otras fuentes de ingresos o convertirse en la principal si se domina la práctica. \n 3:Acceso a múltiples mercados: \n   Los traders pueden elegir entre mercados como acciones, forex, criptomonedas, etc.",
              "bg":"card-ligh"
         }
 
@@ -31,14 +31,15 @@
             "id":4,
             "title": "herramienta del trading",
             "img":"https://itexus.com/wp-content/uploads/2021/01/How-much-Does-It-Cost-to-Develop-an-Automated-Trading-System.png",
-            "body":"Una herramienta de trading es un recurso que facilita a los operadores (traders) analizar mercados financieros, tomar decisiones informadas y ejecutar operaciones. Estas herramientas varían según el nivel de experiencia y las necesidades del trader. Aquí te detallo algunas categorías clave: \n\n 1:Plataformas de Trading \n *Ejemplos: MetaTrader 4/5, TradingView, NinjaTrader.\n *Proporcionan gráficos, indicadores técnicos, análisis de mercado y la posibilidad de ejecutar órdenes. \n\n 2:Indicadores Técnicos \n *Herramientas de análisis basadas en datos históricos, como \n Media Móvil (Moving Average). \n *Índice de Fuerza Relativa (RSI) etc.. \n\n 3:Herramientas de Gestión de Riesgos *Calculadoras de tamaño de posición. \n *Stop loss y take profit automáticos. \n\n Herramientas de Análisis Fundamental \n Ayudan a evaluar el valor real de un activo, considerando factores macroeconómicos, reportes financieros, etc.",
-            "bg":"card-dark"
+            "body":"Una herramienta de trading es un recurso que facilita a los operadores (traders) analizar mercados financieros, tomar decisiones informadas y ejecutar operaciones. Estas herramientas varían según el nivel de experiencia y las necesidades del trader. Aquí te detallo algunas categorías clave: \n\n 1:Plataformas de Trading \n   Ejemplos: MetaTrader 4/5, TradingView, NinjaTrader.\n   Proporcionan gráficos, indicadores técnicos, análisis de mercado y la posibilidad de ejecutar órdenes. \n\n 2:Indicadores Técnicos \n   Herramientas de análisis basadas en datos históricos, como \n Media Móvil (Moving Average). \n   Índice de Fuerza Relativa (RSI) etc.. \n\n 3:Herramientas de Gestión de Riesgos   Calculadoras de tamaño de posición. \n   Stop loss y take profit automáticos. \n\n Herramientas de Análisis Fundamental \n Ayudan a evaluar el valor real de un activo, considerando factores macroeconómicos, reportes financieros, etc.",
+            "bg":"card-dark '"
 
         },
         {
             "id":5,
             "title":"estrategia de trading",
-            "bg":"card-ligh"
+            "img":"https://libertex.org/sites/default/files/inline-images/estrategias-trading-1_1.jpg",
+            "body":"no esta disponible por el momento..."
 
 
         },
