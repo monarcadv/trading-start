@@ -52,14 +52,14 @@ export default document
       clave.classList.remove("valido");
     }
 
-    // if(RexfullName.test(nombre.value) && RexfullName.test(apelldio.value) && RexEmail.test(email.value) && RexClave.test(clave.value)){
+    if(RexfullName.test(nombre.value) && RexfullName.test(apelldio.value) && RexEmail.test(email.value) && RexClave.test(clave.value)){
 
-    //     setTimeout(()=>{
-    //         window.location.href = '../../index.html'
-    //     },1000)
+        setTimeout(()=>{
+            window.location.href = '../../index.html'
+        },1000)
 
-    // }
-    //
+    }
+    
 
     setTimeout(() => {
       nombre.classList.remove("invalido");

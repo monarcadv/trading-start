@@ -15,7 +15,10 @@ async function datelli(){
       const elemento = elementos.find((el) => el.id == id);
       if(elemento){
         const bodys = elemento.body.replace(/\n/g, "<br/>")
-        description.innerHTML = `<img src="${elemento.img}" class="look"/> <h1 class="title">${elemento.title}</h1> <div class="detailtitle">${bodys}</div>`
+        description.innerHTML = `<button id="stop" class="stops"><-</button><img src="${elemento.img}" class="look"/> <h1 class="title">${elemento.title}</h1> <div class="detailtitle">${bodys}</div>`
+        document.getElementById('stop').addEventListener('click',()=>{
+          window.location.href='../../index.html'
+        })
       }
 
    }catch{
@@ -40,7 +43,10 @@ async function datellipersonal(){
       const elemento = elementos.find((el) => el.id == id);
       if(elemento){
         const bodys = elemento.body.replace(/\n/g, "<br/>")
-        dataDescription.innerHTML = `<img src="${elemento.img}" class="look"/> <h1 class="title">${elemento.title}</h1> <div class="detailtitle">${bodys}</div>`
+        dataDescription.innerHTML = `<button id="stop" class="stops"><-</button><img src="${elemento.img}" class="look"/> <h1 class="title">${elemento.title}</h1> <div class="detailtitle">${bodys}</div> `
+        document.getElementById('stop').addEventListener('click',()=>{
+          window.location.href='../../index.html'
+        })
       }
 
    }catch{
@@ -49,4 +55,5 @@ async function datellipersonal(){
 
 
 }
+
 datellipersonal()

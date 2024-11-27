@@ -29,7 +29,9 @@ export default document
       claveLogin.classList.remove("valido");
     }
     if (RexEmail.test(emailLogin.value) && RexClave.test(claveLogin.value)) {
-      window.location.href = "../../index.html";
+      setTimeout(() => {
+        window.location.href = "../../index.html";
+      }, 1000);
     }
     //
     setTimeout(() => {

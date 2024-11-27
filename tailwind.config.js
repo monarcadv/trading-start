@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       gridTemplateColumns: {
         "coluns-re": "repeat(auto-fill, minmax(200px, 1fr))",
+        "coluns-md": "repeat(auto-fill, minmax(250px, 1fr))",
       },
       gridAutoRows: {
         "rowauto": "auto",
